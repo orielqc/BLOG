@@ -12,4 +12,4 @@
 	en camara parece lato en verdad no es alto
 
 
-	hoy esta aprendiendo GIT
+	hoy esta aprendiendo todo los comando de Git
